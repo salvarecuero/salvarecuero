@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 style="text-align: center;">Salvador Recuero Guerrero 👋</h1>
+I'm a Front-End Developer focusing on the React library and technologies that complements it, but loving to learn and try new things.
 
-<!--
-**salvarecuero/salvarecuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+### 🧑‍💻 About me!
+- 📌 Living in Uruguay
+- 🚀 Road to Full-Stack developer
+- 💼 Currently looking for my first job
+- 🌱 Never stop learning
+- ⚡ **Fun-fact:** I like to spend some of my free time playing and learning while creating *Telegram* bots with *Node.js*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+
+### 🛠️ Tech stack
+- React
+- HTML
+- CSS *(Sass, Styled-Components Bootstrap)*
+- JavaScript
+- Node.js *(Express)*
+
+------------
+
+### 📚 Next to learn
+- TypeScript
+- Next.js
+- MongoDB & GraphQL
+
+------------
+
+### ✉️ Contact me!
+ 
+-  [Click here for my LinkedIn](https://www.linkedin.com/in/salvarecuero/ "Here is my LinkedIn")
