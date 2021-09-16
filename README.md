@@ -6,7 +6,7 @@ I'm a Front-End Developer focusing on the React library and technologies that co
 ### 🧑‍💻 About me!
 - 📌 Living in Uruguay
 - 🚀 Road to Full-Stack developer
-- 💼 Currently looking for my first job
+- 💼 Currently working at [Vairix](https://www.vairix.com/ "Vairix")!
 - 🌱 Never stop learning
 - ⚡ **Fun-fact:** I like to spend some of my free time playing and learning while creating *Telegram* bots with *Node.js*.
 
