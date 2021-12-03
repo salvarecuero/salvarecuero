@@ -15,7 +15,7 @@ I'm a Front-End Developer focusing on the React library and technologies that co
 ### 🛠️ Tech stack
 - React
 - HTML
-- CSS *(Sass, Styled-Components, Bootstrap)*
+- CSS *(Sass, Styled-Components, Bootstrap, Tailwind CSS)*
 - JavaScript
 - Node.js *(Express)*
 
