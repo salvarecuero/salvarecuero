@@ -13,18 +13,17 @@ I'm a Front-End Developer focusing on the React library and technologies that co
 ------------
 
 ### 🛠️ Tech stack
-- React
+- Next.js / React
+- TypeScript / JavaScript
 - HTML
 - CSS *(Sass, Styled-Components, Bootstrap, Tailwind CSS)*
-- JavaScript
 - Node.js *(Express)*
 
 ------------
 
 ### 📚 Next to learn
-- TypeScript
-- Next.js
 - MongoDB & GraphQL
+- More Node.js
 
 ------------
 
