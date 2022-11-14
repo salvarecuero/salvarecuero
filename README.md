@@ -29,5 +29,5 @@ I'm a Front-End Developer focusing on the React library and technologies that co
 
 ### ✉️ Contact me!
  
--  [Click here for my LinkedIn](https://www.linkedin.com/in/salvarecuero/ "Here is my LinkedIn")
+- [Click here for my LinkedIn](https://www.linkedin.com/in/salvarecuero/ "Here is my LinkedIn")
 - [Click here to send me an email](mailto:salvarecuero@gmail.com "Click here to send me an email")
