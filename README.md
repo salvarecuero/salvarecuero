@@ -8,7 +8,7 @@ I'm a Front-End Developer focusing on the React library and technologies that co
 - 🚀 Road to Full-Stack developer
 - 💼 Currently working at [Vairix](https://www.vairix.com/ "Vairix")!
 - 🌱 Never stop learning
-- ⚡ **Fun-fact:** I like to spend some of my free time playing and learning while creating *Telegram* bots with *Node.js*.
+- ⚡ **Fun-fact:** I like to spend some of my free time playing and learning while creating *Telegram/Discord* bots with *Node.js*.
 
 ------------
 
@@ -16,14 +16,15 @@ I'm a Front-End Developer focusing on the React library and technologies that co
 - Next.js / React
 - TypeScript / JavaScript
 - HTML
-- CSS *(Sass, Styled-Components, Bootstrap, Tailwind CSS)*
-- Node.js *(Express)*
+- CSS *(Tailwind CSS, in-js,Sass, vanilla)*
+- Node.js *(NestJS)*
+- Docker
 
 ------------
 
 ### 📚 Next to learn
-- MongoDB & GraphQL
-- More Node.js
+- More Cloud
+- More IA
 
 ------------
 
