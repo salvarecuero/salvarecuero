@@ -1,33 +1,16 @@
-<h1 style="text-align: center;">Salvador Recuero Guerrero 👋</h1>
-I'm a Front-End Developer focusing on the React library and technologies that complements it, but loving to learn and try new things.
+<div align="center">
 
-------------
+# Salvador Recuero
 
-### 🧑‍💻 About me!
-- 📌 Living in Uruguay
-- 🚀 Road to Full-Stack developer
-- 💼 Currently working at [Vairix](https://www.vairix.com/ "Vairix")!
-- 🌱 Never stop learning
-- ⚡ **Fun-fact:** I like to spend some of my free time playing and learning while creating *Telegram/Discord* bots with *Node.js*.
+Software Engineer
 
-------------
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
-### 🛠️ Tech stack
-- Next.js / React
-- TypeScript / JavaScript
-- HTML
-- CSS *(Tailwind CSS, in-js,Sass, vanilla)*
-- Node.js *(NestJS)*
-- Docker
+[![salvarecuero.dev](https://img.shields.io/badge/salvarecuero.dev-4A4A4A?style=flat&logo=safari&logoColor=white)](https://salvarecuero.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvarecuero/)
 
-------------
-
-### 📚 Next to learn
-- More Cloud
-- More IA
-
-------------
-
-### ✉️ Contact me!
- 
-- [Click here for my LinkedIn](https://www.linkedin.com/in/salvarecuero/ "Here is my LinkedIn")
+</div>
